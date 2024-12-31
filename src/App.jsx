@@ -48,7 +48,7 @@ function App() {
 
   return (
     <div className="app">
-      <BrowserRouter>
+      <BrowserRouter basename="/instock-mont-blanc">
         <Header />
         {(!warehouses || !inventories) ? (
           <div>Loading data...</div>
