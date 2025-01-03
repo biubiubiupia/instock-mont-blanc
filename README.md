@@ -21,6 +21,7 @@ This project was developed by an Agile team, with four members taking an equal s
 - **Routing:** Implemented routing using `react-router-dom` to enable smooth navigation between pages.
 - **Styling:** Used SASS to implement a responsive design, adhering to the Figma mockups and ensuring a consistent user experience.
 - **Collaboration:** Worked within an Agile framework, participating in sprint planning, daily stand-ups, and code reviews.
+<!--
 
 ## How to Run the Project Locally
 1. Clone the repository:
@@ -37,8 +38,9 @@ This project was developed by an Agile team, with four members taking an equal s
    npm start
 
 4. Open http://localhost:3000 in your browser to view the application.
+-->
 
 ## Live Demo
-You can view the live version of this project hosted on GitHub Pages here.
+You can view the live version of this project [here]((https://www.linkedin.com/in/tinayantingfeng/). Please allow a few moments for the database to spin up and for the data to be loaded. 
 
 
