@@ -21,6 +21,10 @@ This project was developed by an Agile team, with four members taking an equal s
 - **Routing:** Implemented routing using `react-router-dom` to enable smooth navigation between pages.
 - **Styling:** Used SASS to implement a responsive design, adhering to the Figma mockups and ensuring a consistent user experience.
 - **Collaboration:** Worked within an Agile framework, participating in sprint planning, daily stand-ups, and code reviews.
+
+## API Code 
+
+You can find the custom API code [here](https://github.com/biubiubiupia/instock-mont-blanc-api.git)
 <!--
 
 ## How to Run the Project Locally
@@ -41,6 +45,6 @@ This project was developed by an Agile team, with four members taking an equal s
 -->
 
 ## Live Demo
-You can view the live version of this project [here]((https://www.linkedin.com/in/tinayantingfeng/). Please allow a few moments for the database to spin up and for the data to be loaded. 
+You can view the live version of this project [here](https://www.linkedin.com/in/tinayantingfeng/). Please allow a few moments for the database to spin up and for the data to be loaded. 
 
 
