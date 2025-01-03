@@ -24,7 +24,7 @@ This project was developed by an Agile team, with four members taking an equal s
 
 ## API Code 
 
-You can find the custom API code [here](https://github.com/biubiubiupia/instock-mont-blanc-api.git){:target="_blank"}.
+You can find the custom API repository here: https://github.com/biubiubiupia/instock-mont-blanc-api.git
 <!--
 
 ## How to Run the Project Locally
@@ -45,6 +45,6 @@ You can find the custom API code [here](https://github.com/biubiubiupia/instock-
 -->
 
 ## Live Demo
-You can view the live version of this project [here](https://www.linkedin.com/in/tinayantingfeng/){:target="_blank"}. Please allow a few moments for the database to spin up and for the data to be loaded. 
+You can view the live version of this project [here](https://www.linkedin.com/in/tinayantingfeng/). Please allow a few moments for the database to spin up and the data to be loaded. 
 
 
