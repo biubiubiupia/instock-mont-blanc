@@ -45,6 +45,6 @@ You can find the custom API repository here: https://github.com/biubiubiupia/ins
 -->
 
 ## Live Demo
-You can view the live version of this project [here](https://www.linkedin.com/in/tinayantingfeng/). Please allow a few moments for the database to spin up and the data to be loaded. 
+You can view the live version of this project [here](https://biubiubiupia.github.io/instock-mont-blanc/). Please allow a few moments for the database to spin up and the data to be loaded. 
 
 
